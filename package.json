@@ -1,0 +1,26 @@
+{
+  "name": "quote-keeper",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[\u001b[\u001b[C\u001b[Quote keeper project for keeping quotes",
+  "main": "user-visits-root-test.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astech2021/quote_keeper.git"
+  },
+  "keywords": [
+    "Qoute",
+    "Keeper"
+  ],
+  "author": "Abdul-Wadud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/astech2021/quote_keeper/issues"
+  },
+  "homepage": "https://github.com/astech2021/quote_keeper#readme"
+}
